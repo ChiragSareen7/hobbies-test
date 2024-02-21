@@ -1,0 +1,12 @@
+*{
+ background-color: pink;
+}
+.list{
+  color: rgb(145, 23, 40);
+}
+.list:hover{
+  color: black;
+}
+#header{
+  font-size: 9vw;
+}
